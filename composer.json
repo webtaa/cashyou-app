@@ -1,0 +1,9 @@
+{
+    "name": "cashyou/app",
+    "description": "a project that give a gift for do some tasks",
+    "require": {
+        "ext-mysqli": "*",
+        "tebru/gson-php": "^0.7.4",
+      "ext-json": "*"
+    }
+}
